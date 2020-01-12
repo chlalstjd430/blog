@@ -1,6 +1,6 @@
 baseURL: https://chlalstjd430.github.io
 theme: hugo-theme-pure
-title: Pure theme for Hugo
+title: cmstown
 defaultContentLanguage: en  # en/zh/...
 footnoteReturnLinkContents: ↩
 hasCJKLanguage: true
@@ -90,7 +90,7 @@ params:
     avatar: avatar.png
     gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
     author: 최민성
-    author_title: 26, 백엔드
+    author_title: 26, 숭실대학교
     author_description: email, cms3136@gmail.com
     location: Seoul, Korea
     follow: https://github.com/chlalstjd430
@@ -112,7 +112,7 @@ params:
       url: favicon.ico
     title: Hugo # 页面title
     favicon: favicon.ico
-    board: <p>cms3136@gmail.com</p><p>- 숭실대학교 글로벌미디어학부</p><p>- YOURSSU 백엔드 개발자</p>
+    board: <p>cms3136@gmail.com</p><p>- 숭실대학교 글로벌미디어학부</p><p>- 렉토피아 17기</p><p>- YOURSSU 백엔드 개발자</p>
 
   # Share
   # weibo,qq,qzone,wechat,tencent,douban,diandian,facebook,twitter,google,linkedin
@@ -171,7 +171,7 @@ params:
 
   # config
   config:
-    skin: theme-black # theme color default is white. other type [theme-black,theme-blue,theme-green,theme-purple]
+    skin: theme-black  # theme color default is white. other type [theme-black,theme-blue,theme-green,theme-purple]
     layout: main-center # main-left main-center main-right
     excerpt_link: Read More
     toc: true

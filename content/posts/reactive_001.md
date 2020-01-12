@@ -1,7 +1,7 @@
 ---
 title: "Reactive Programming"
 date: 2020-01-11T21:53:44+09:00
-categories: ["ReactiveProgramming"]
+categories: ["Reactive_Programming"]
 tags: ["Reactive"]
 ---
 
