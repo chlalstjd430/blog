@@ -91,7 +91,7 @@ params:
     gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
     author: 최민성
     author_title: 26, 숭실대학교
-    author_description: email, cms3136@gmail.com
+    author_description: cms3136@gmail.com
     location: Seoul, Korea
     follow: https://github.com/chlalstjd430
     # Social Links
