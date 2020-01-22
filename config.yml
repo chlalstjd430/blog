@@ -112,7 +112,7 @@ params:
       url: favicon.ico
     title: Hugo # 页面title
     favicon: favicon.ico
-    board: <p>cms3136@gmail.com</p><p>- 숭실대학교 글로벌미디어학부</p><p>- 렉토피아 17기</p><p>- YOURSSU 백엔드 개발자</p>
+    board: <p>cms3136@gmail.com</p><p>- 숭실대학교 글로벌미디어학부</p><p>- LECTOPIA 17기</p><p>- YOURSSU 백엔드 개발자</p><p>- YAPP 16기 백엔드 개발자</p>
 
   # Share
   # weibo,qq,qzone,wechat,tencent,douban,diandian,facebook,twitter,google,linkedin
