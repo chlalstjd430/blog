@@ -52,7 +52,7 @@ JWT는  **Header, Payload, Signature** 로 3부분으로 JSON 형태를 Base64�
     - Registered claims(등록된 클레임)
 
       토큰 정보를 표현하기 위해 이미 정해진 종류의 데이트들이다. 모두 선택적으로 작성이 가능하며 사용할 것을 권장한다. 또한 JWT를 간결하게 위해 key는 모두 3글자이다.
-
+      
         - iss : 토큰 발급자(issuer)
 
         - sub : 토큰 제목(subject)
