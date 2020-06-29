@@ -7,7 +7,7 @@ hasCJKLanguage: true
 paginate: 7
 enableEmoji: true
 PygmentsCodeFences: false
-googleAnalytics: ""      # UA-XXXXXXXX-X 
+googleAnalytics: ""      # UA-XXXXXXXX-X
 permalinks:
   posts: /:year/:month/:filename/
 
@@ -15,7 +15,7 @@ taxonomies:
     category : categories
     tag : tags
     series : series
-outputFormats:          # use for search. recommend not to modify 
+outputFormats:          # use for search. recommend not to modify
   SearchIndex:
     mediaType: "application/json"
     baseName: "searchindex"
@@ -112,7 +112,7 @@ params:
       url: favicon.ico
     title: Hugo # 页面title
     favicon: favicon.ico
-    board: <p>cms3136@gmail.com</p><p>- 숭실대학교 글로벌미디어학부</p><p>- Lectopia s/w expert course 17기</p><p>- YOURSSU 백엔드 개발자</p><p>- YAPP 16기</p>
+    board: <p>cms3136@gmail.com</p><p>- 숭실대학교 글로벌미디어학부</p><p>- Lectopia s/w expert course 17기</p><p>- YOURSSU 백엔드 개발자</p><p>- YAPP 16기</p><p>- NEXTERS 17기</p>
 
   # Share
   # weibo,qq,qzone,wechat,tencent,douban,diandian,facebook,twitter,google,linkedin
@@ -174,4 +174,3 @@ params:
     - category
     - tag
     - recent_posts
-
