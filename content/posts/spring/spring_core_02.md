@@ -1,5 +1,5 @@
 ---
-title: "[Spring Core(스프링 프레임워크 핵심기술)] 02.스프링 IoC 컨테이너와 빈"
+title: "[Spring Core(스프링 프레임워크 핵심기술)] 02. 스프링 IoC 컨테이너와 빈"
 date: 2020-07-01T01:40:21+09:00
 categories: ["스프링"]
 ---
