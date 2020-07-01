@@ -4,7 +4,9 @@ date: 2020-07-02T02:21:47+09:00
 categories: ["스프링"]
 ---
 # 2. IoC 컨테이너 2부 : ApplicationContext와 다양한 빈 설정 방법
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8f064530-280a-4a2b-b483-9bdddcdae724/_2020-07-01__3.02.37.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8f064530-280a-4a2b-b483-9bdddcdae724/_2020-07-01__3.02.37.png)
+
+<img  alt="_2020-07-01__3 02 37 2" src="https://user-images.githubusercontent.com/50758600/86273994-fc31b680-bc0b-11ea-8d2f-78829aad6f82.png">
+
 
 ## 스프링 IoC 컨테이너의 역할
 
