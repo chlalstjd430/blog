@@ -56,7 +56,11 @@ menu:
       url: /tags/
       weight: 4
 
-
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+      
 params:
   since: 2017
   dateFormatToUse: "2006-01-02"
@@ -174,3 +178,4 @@ params:
     - category
     - tag
     - recent_posts
+    
