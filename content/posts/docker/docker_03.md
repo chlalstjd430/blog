@@ -1,5 +1,5 @@
 ---
-title: "[Docker/도커]03.도커 컨테이너 배포 - 컨테이너로 애플리케이션 실행하기"
+title: "[Docker/도커] 03.도커 컨테이너 배포 - 컨테이너로 애플리케이션 실행하기"
 date: 2020-09-04T21:04:07+09:00
 categories: ["Docker"]
 tags: ["Devops"]

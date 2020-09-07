@@ -1,5 +1,5 @@
 ---
-title: "[Docker/도커]04.도커 컨테이너 배포 - 도커 이미지 다루기"
+title: "[Docker/도커] 04.도커 컨테이너 배포 - 도커 이미지 다루기"
 date: 2020-09-05T17:45:30+09:00
 categories: ["Docker"]
 tags: ["Devops"]

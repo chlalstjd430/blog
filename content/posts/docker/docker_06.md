@@ -1,5 +1,5 @@
 ---
-title: "[Docker/도커]06.도커 컨테이너 배포 - 운영과 관리를 위한 명령"
+title: "[Docker/도커] 06.도커 컨테이너 배포 - 운영과 관리를 위한 명령"
 date: 2020-09-06T03:14:26+09:00
 categories: ["Docker"]
 tags: ["Devops"]
@@ -90,3 +90,15 @@ $ docker container stats 22e87
 CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT    MEM %               NET I/O             BLOCK I/O           PIDS
 22e874692682        echo                0.00%               8.84MiB / 1.944GiB   0.44%               1.29kB / 0B         0B / 0B             20
 ~~~
+
+
+
+
+
+<br>
+<br>
+<br>
+
+**참고**
+
+[도커/쿠버네티스를 활용한 컨테이너 개발 실전 입문](http://www.yes24.com/Product/Goods/70893433)

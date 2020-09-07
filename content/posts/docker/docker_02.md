@@ -1,5 +1,5 @@
 ---
-title: "[Docker/도커]02. 도커의 기초 - 도커를 사용하는 의의 / 도커 설치하기"
+title: "[Docker/도커] 02. 도커의 기초 - 도커를 사용하는 의의 / 도커 설치하기"
 date: 2020-09-04T17:36:13+09:00
 categories: ["Docker"]
 tags: ["Devops"]

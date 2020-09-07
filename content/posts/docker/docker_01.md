@@ -1,5 +1,5 @@
 ---
-title: "[Docker/도커]01. 도커의 기초 - 도커란 무엇인가?"
+title: "[Docker/도커] 01. 도커의 기초 - 도커란 무엇인가?"
 date: 2020-09-04T13:23:15+09:00
 categories: ["Docker"]
 tags: ["Devops"]
