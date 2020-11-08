@@ -1,10 +1,10 @@
-baseURL: https://chlalstjd430.github.io
+baseURL: http://blog.cmstown.com
 theme: hugo-theme-pure
 title: cmstown
 defaultContentLanguage: en  # en/zh/...
 footnoteReturnLinkContents: ↩
 hasCJKLanguage: true
-paginate: 7
+paginate: 10
 enableEmoji: true
 PygmentsCodeFences: false
 googleAnalytics: "G-PKRV60YBKY"      # UA-XXXXXXXX-X
