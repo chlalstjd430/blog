@@ -1,7 +1,7 @@
 ---
 title: "[Spring Core(스프링 프레임워크 핵심기술)] 03. IoC 컨테이너 2부 : ApplicationContext와 다양한 빈 설정 방법"
 date: 2020-07-02T02:21:47+09:00
-categories: ["스프링"]
+categories: ["spring"]
 ---
 # 2. IoC 컨테이너 2부 : ApplicationContext와 다양한 빈 설정 방법
 
@@ -87,7 +87,7 @@ categories: ["스프링"]
     ```java
     @Service
     public class BookService {
-    		
+
     		@Autowired
         BookRepository bookRepository;
 
@@ -136,7 +136,7 @@ categories: ["스프링"]
 
     ```java
     public class BookService {
-    		
+
         BookRepository bookRepository;
 
         public void setBookRepository(BookRepository bookRepository) {
@@ -155,14 +155,14 @@ categories: ["스프링"]
     		public BookRepository bookRepository() {
     			return new BookRepository();
     		}
-    		
+
     		// method parameter로 주입받아서도 사용 가능
     		@Bean
     		public BookService bookService() {
     			BookService bookService = new BookService();
     			bookService.setBookRepository(bookRepository());
-    			
-    			return bookService; 
+
+    			return bookService;
     		}
     }
     ```

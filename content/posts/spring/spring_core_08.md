@@ -1,7 +1,7 @@
 ---
 title: "[Spring Core(스프링 프레임워크 핵심기술)] 08. IoC 컨테이너 : 프로퍼티"
 date: 2020-07-12T12:32:18+09:00
-categories: ["스프링"]
+categories: ["spring"]
 ---
 # property
 

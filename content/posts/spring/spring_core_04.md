@@ -1,7 +1,7 @@
 ---
 title: "[Spring Core(스프링 프레임워크 핵심기술)] 04. @Autowired"
 date: 2020-07-03T02:49:29+09:00
-categories: ["스프링"]
+categories: ["spring"]
 ---
 
 # @Autowired
@@ -106,7 +106,7 @@ BookService.java
 ```java
 @Service
 public class BookService {
-		
+
 		@Autowired(required = false)
     BookRepository bookRepository;
 
@@ -145,7 +145,7 @@ BookService.java
 ```java
 @Service
 public class BookService {
-		
+
 		@Autowired
     BookRepository bookRepository;
 

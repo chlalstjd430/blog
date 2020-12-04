@@ -1,7 +1,7 @@
 ---
 title: "[Spring Core(스프링 프레임워크 핵심기술)] 07. IoC 컨테이너 : 프로파일"
 date: 2020-07-12T12:30:33+09:00
-categories: ["스프링"]
+categories: ["spring"]
 ---
 # profile
 

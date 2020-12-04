@@ -1,7 +1,7 @@
 ---
 title: "[Spring Core(스프링 프레임워크 핵심기술)] 05. IoC 컨테이너 : @Component와 Component-Scan"
 date: 2020-07-09T10:04:44+09:00
-categories: ["스프링"]
+categories: ["spring"]
 ---
 
 # @Component와 Component-Scan
@@ -39,7 +39,7 @@ public class DemoApplication {
 
 위와 같이 코드를 작성하면 빈을 찾을 수 없다는 빨간 밑줄이 나오게 된다.
 
-실제 내부 코드를 보면 
+실제 내부 코드를 보면
 
 ```java
 @ComponentScan(

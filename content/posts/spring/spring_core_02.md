@@ -1,7 +1,7 @@
 ---
 title: "[Spring Core(스프링 프레임워크 핵심기술)] 02. 스프링 IoC 컨테이너와 빈"
 date: 2020-07-01T01:40:21+09:00
-categories: ["스프링"]
+categories: ["spring"]
 ---
 
 # 스프링 IoC 컨테이너와 빈
@@ -57,7 +57,7 @@ categories: ["스프링"]
         - 싱글톤(Spring IoC에서 관리하는 빈들은 기본적으로 싱글톤이다) : 하나의 객체 생성
 
         - 프로포토타입 : 매번 다른 객체 생성
-        
+
     - lifecycle interface
 
 ## 3. ApplicationContext

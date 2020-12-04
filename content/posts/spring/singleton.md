@@ -1,7 +1,7 @@
 ---
 title: "Spring Singleton VS Java Singleton"
 date: 2020-08-19T13:51:32+09:00
-categories: ["스프링"]
+categories: ["spring"]
 ---
 # Spring Singleton VS Java Singleton(스프링 싱글톤과 자바 싱글톤의 차이)
 

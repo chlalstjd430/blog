@@ -1,7 +1,7 @@
 ---
 title: "[Spring Core(스프링 프레임워크 핵심기술)] 06. IoC 컨테이너 : 빈의 스코프"
 date: 2020-07-09T19:10:24+09:00
-categories: ["스프링"]
+categories: ["spring"]
 ---
 
 # 빈의 스코프
@@ -92,14 +92,14 @@ Single.java
 public class Single {
     @Autowired
     Proto proto;
-    
+
     public Proto getProto(){
         return proto;
     }
 }
 ```
 
-위 코드를 작성하고, 
+위 코드를 작성하고,
 
 AppRunner.java
 
@@ -159,7 +159,7 @@ single안의 proto가 매번 다른 값을 보여주지 않고, 동일한 값을
     public class Single {
         @Autowired
         ObjectProvider<Proto> proto;
-        
+
         public Proto getProto(){
             return proto.getIfAvailable();
         }

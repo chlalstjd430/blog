@@ -1,7 +1,7 @@
 ---
 title: "[Spring(스프링)] 알고 쓰는 @Transactional"
 date: 2020-11-09T14:51:26+09:00
-categories: ["스프링"]
+categories: ["spring"]
 ---
 
 # 알고 쓰는 @Transactional
