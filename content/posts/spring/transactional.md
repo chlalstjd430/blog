@@ -1,7 +1,7 @@
 ---
 title: "[Spring(스프링)] 알고 쓰는 @Transactional"
 date: 2020-11-09T14:51:26+09:00
-categories: ["spring"]
+categories: ["스프링"]
 ---
 
 # 알고 쓰는 @Transactional
@@ -77,7 +77,7 @@ isolation에 대한 내용은 [이 글](http://blog.cmstown.com/2020/11/transcat
 
 #### DEFAULT
 
-- 기본 격리 수준으로 DB의 isolation level을 따른다. 
+- 기본 격리 수준으로 DB의 isolation level을 따른다.
 
 - mysql의 경우 REPEATABLE_READ이다.
 

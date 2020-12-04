@@ -1,7 +1,7 @@
 ---
 title: "[DesignPattern] Sigleton pattern(싱글톤 패턴)"
 date: 2020-06-11T21:51:02+09:00
-categories: ["디자인패턴"]
+categories: ["design pattern"]
 ---
 
 # Sigleton pattern(싱글톤 패턴)

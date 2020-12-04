@@ -1,7 +1,7 @@
 ---
 title: "[HTTP Method] PUT과 PATCH의 차이점"
 date: 2020-06-02T18:04:02+09:00
-categories: ["백엔드"]
+categories: ["backend"]
 ---
 RESTful API를 설계할 때 내가 만난 대부분은 주로 "수정" 기능에 대헤 **PUT** 을 사용하게 됩니다. 그러나 수정할 때 무조건 **PUT** 을 이용하는 것을 옳지 못한 방법입니다. 수정할 때는 **PUT** 말고 **PATCH** 가 있는데, 오늘 이 둘의 차이점을 간략하게 소개하고자 합니다.
 

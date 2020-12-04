@@ -1,7 +1,7 @@
 ---
 title: "[DesignPattern] Command pattern(커맨드 패턴)"
 date: 2020-06-13T17:52:37+09:00
-categories: ["디자인패턴"]
+categories: ["design pattern"]
 ---
 
 # Command pattern(커맨드 패턴)

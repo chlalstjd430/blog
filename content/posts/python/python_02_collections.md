@@ -1,7 +1,7 @@
 ---
 title: "[Python 기초] - 튜플,세트 그리고 딕셔너리"
 date: 2020-06-23T15:00:58+09:00
-categories: ["파이썬"]
+categories: ["python"]
 ---
 # [Python 기초] - 튜플,세트 그리고 딕셔너리
 

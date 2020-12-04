@@ -1,7 +1,7 @@
 ---
 title: "[DesignPattern] Template Method Pattern(템플릿 메소드 패턴)"
 date: 2020-05-26T15:37:48+09:00
-categories: ["디자인패턴"]
+categories: ["design pattern"]
 ---
 
 # Template Method Pattern(템플릿 메소드 패턴)

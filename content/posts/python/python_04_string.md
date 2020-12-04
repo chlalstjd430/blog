@@ -1,7 +1,7 @@
 ---
 title: "[Python 기초] - 문자열의 개념"
 date: 2020-06-23T15:01:46+09:00
-categories: ["파이썬"]
+categories: ["python"]
 ---
 # [Python 기초] - 문자열의 개념
 

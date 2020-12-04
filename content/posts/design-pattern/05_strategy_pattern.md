@@ -1,7 +1,7 @@
 ---
 title: "[DesignPattern] Strategy pattern(전략 패턴)"
 date: 2020-06-11T21:16:48+09:00
-categories: ["디자인패턴"]
+categories: ["design pattern"]
 ---
 
 # Strategy pattern(전략 패턴)

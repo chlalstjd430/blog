@@ -1,7 +1,7 @@
 ---
 title: "[Python 기초] - 클래스"
 date: 2020-06-23T15:02:09+09:00
-categories: ["파이썬"]
+categories: ["python"]
 ---
 # [Python 기초] - 클래스
 

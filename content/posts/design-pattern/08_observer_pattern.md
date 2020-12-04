@@ -1,7 +1,7 @@
 ---
 title: "[DesignPattern] Observer pattern(옵저버 패턴)"
 date: 2020-06-13T23:13:36+09:00
-categories: ["디자인패턴"]
+categories: ["design pattern"]
 ---
 
 #  Observer pattern(옵저버 패턴)

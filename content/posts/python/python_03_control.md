@@ -1,7 +1,7 @@
 ---
 title: "[Python 기초] - 제어문과 데이터 구조"
 date: 2020-06-23T15:01:31+09:00
-categories: ["파이썬"]
+categories: ["python"]
 ---
 # [Python 기초] - 제어문과 데이터 구조
 

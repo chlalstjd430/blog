@@ -1,7 +1,7 @@
 ---
 title: "[Python 기초] - 리스트"
 date: 2020-06-23T15:00:26+09:00
-categories: ["파이썬"]
+categories: ["python"]
 ---
 
 # [Python 기초] - 리스트

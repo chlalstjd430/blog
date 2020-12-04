@@ -1,7 +1,7 @@
 ---
 title: "[DesignPattern] Factory method pattern(팩토리 메소드 패턴)"
 date: 2020-06-02T02:04:49+09:00
-categories: ["디자인패턴"]
+categories: ["design pattern"]
 ---
 
 # Factory method pattern(팩토리 메소드 패턴)

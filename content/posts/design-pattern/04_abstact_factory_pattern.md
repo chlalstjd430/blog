@@ -1,7 +1,7 @@
 ---
 title: "[DesignPattern] Abstract factory pattern(추상 팩토리 패턴)"
 date: 2020-06-08T14:02:59+09:00
-categories: ["디자인패턴"]
+categories: ["design pattern"]
 ---
 
 # Abstract factory pattern(추상 팩토리 패턴)
