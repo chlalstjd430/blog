@@ -50,17 +50,11 @@ menu:
       url: /categories/
       weight: 3
 
-    - identifier: tags
-      name: Tags
-      title: Tags
-      url: /tags/
-      weight: 4
-
 markup:
   goldmark:
     renderer:
       unsafe: true
-      
+
 params:
   since: 2017
   dateFormatToUse: "2006-01-02"
@@ -102,7 +96,7 @@ params:
     social:
       links:
         github: https://github.com/chlalstjd430
-        # weibo: http://weibo.com/{yourid}
+        linkedin: https://www.linkedin.com/in/minseong-choi-a541531aa/
         # twitter: https://twitter.com/
         # facebook: /
         rss: /index.xml
@@ -116,7 +110,7 @@ params:
       url: favicon.ico
     title: Hugo # 页面title
     favicon: favicon.ico
-    board: <p>cms3136@gmail.com</p><p>- 숭실대학교 글로벌미디어학부</p><p>- Lectopia s/w expert course 17기</p><p>- YOURSSU 백엔드 개발자</p><p>- YAPP 16기</p><p>- NEXTERS 17기</p><p>- NAVER WEBTOON 서버개발 인턴</p>
+    board: <p>cms3136@gmail.com</p><p>- 숭실대학교 글로벌미디어학부</p><p>- YOURSSU 백엔드 개발자</p><p>- YAPP 16기</p><p>- NEXTERS 17기</p><p>- NAVER WEBTOON 인턴</p>
 
   # Share
   # weibo,qq,qzone,wechat,tencent,douban,diandian,facebook,twitter,google,linkedin
@@ -176,6 +170,4 @@ params:
   widgets:
     - board
     - category
-    - tag
     - recent_posts
-    
